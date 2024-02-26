@@ -11,5 +11,3 @@ class zrand
 
     public: static float GetRandomLimitedFloat(float min, float max);
 };
-
-static zrand ZRand;
